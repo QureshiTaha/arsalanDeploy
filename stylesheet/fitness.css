@@ -1,0 +1,59 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  
+}
+/* branding colors */
+.orange{
+    color: #eb7231;
+}
+.bg-orange{
+    background-color:#eb7231;
+}
+.bg-grey{
+    background-color:#f1f5f8;
+}
+.btn:hover {
+     border:none;
+     transform: scale();
+}
+/*end branding colors */
+.btn-orange:hover{
+    background-color: #eb7231;
+    color:White;
+}
+.head-bg {
+    background-image: linear-gradient(#0202021c,#db9c7542),url(../image/home.png),url(../image/home.png);
+    background-size:  cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+.training{
+    background-image: linear-gradient(rgb(40 36 36),#db9c7542),url(../image/home\ \(3\).png);
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.call-to-action-1-bg{
+    background-image:linear-gradient(#3c393924,#403b3b),url(../image/home\ \(5\).png);
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+     
+}
+/* form styling */
+.form-1 input.form-control {
+    border-bottom: 1px solid rgb(36 34 34 / 35%);
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-radius: 0;
+    color: rgb(108 117 125);
+}
