@@ -1,0 +1,30 @@
+Contact Us - Pending
+https://woocommerce-416434-1505247.cloudwaysapps.com/contact-us/
+water heaters
+https://woocommerce-416434-1505247.cloudwaysapps.com/plumbing/water-heaters/
+water-softener-installation-repair
+https://woocommerce-416434-1505247.cloudwaysapps.com/plumbing/water-softener-installation-repair/
+pricing
+https://woocommerce-416434-1505247.cloudwaysapps.com/pricing/
+print
+https://woocommerce-416434-1505247.cloudwaysapps.com/print/
+products
+https://woocommerce-416434-1505247.cloudwaysapps.com/products/
+reviews
+https://woocommerce-416434-1505247.cloudwaysapps.com/reviews/
+service-area
+https://woocommerce-416434-1505247.cloudwaysapps.com/service-area/
+
+bradenton-Done
+https://woocommerce-416434-1505247.cloudwaysapps.com/service-area/bradenton/
+charlotte-county-Done
+https://woocommerce-416434-1505247.cloudwaysapps.com/service-area/charlotte-county/
+englewood-Done
+https://woocommerce-416434-1505247.cloudwaysapps.com/service-area/englewood/
+
+
+Can there be a new tab FAQ's add the images
+
+https://wordpress.org/support/topic/some-images-not-displaying-under-5-3/
+Some images not displaying under 5.3
+When I upgrade to 5.3 most images failed to display. When I view the page source the image tag becomes <img src=””… When I restore WordPress to 5.2.4 all images display properly. All plugins and theme are current. Using Uncode theme.

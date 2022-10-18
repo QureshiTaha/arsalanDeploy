@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily task </title>
+    <style>
+        *{
+            font-family: Arial;
+            margin: 0;
+            padding: 0;
+        }
+        h1,h2,h3,h4,li{
+            
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <b>  Target 0 complaints day </b>
+   <h3> Daily task</h3> 
+   <ul>
+    <li> Lights on </li>
+    <li> Water       </li>
+    <li> Te powder</li>
+    <li> Sir k pni</li>
+    <li>Chirs</li>
+    <li>stionry </li>
+    <li>guest te coffe in mug </li>
+    <li>entry compolsory </li>
+    <li>door light turn off fter 6.45</li>
+    <li>Staff entry</li>
+    <li>Bsin light  </li>
+    <li>clean office</li>
+    
+
+    
+    
+   </ul>
+</body>
+</html>

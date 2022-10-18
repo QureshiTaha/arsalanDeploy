@@ -1,0 +1,129 @@
+bradentontropicalpalm
+https://bradentontropicalpalm.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:-lance@integrity-fl.com
+
+ridgewoodmobilehomes
+https://www.ridgewoodmobilehomes.com/
+Remove this Email:- info@odiconsulting.com 
+Update this Email:- lance@integrity-fl.com
+
+verandasprings
+https://verandasprings.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+
+manateemobilehomes
+https://manateemobilehomes.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+
+littlemanateesprings
+https://littlemanateesprings.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+
+mobilehomes4sales
+https://mobilehomes4sales.com/
+Old  Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+
+gardensparrish
+https://gardensparrish.com/ 
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://gardensparrish.com/whats-new/
+Created new page 
+side bar remove
+single side bar remove 
+
+riversideclub
+http://www.riversideclub-fl.com/
+Remove this Email:- Info@odiconsulting.com, info@integrity-fl.com
+Update this Email:- lance@integrity-fl.com
+What's New
+http://www.riversideclub-fl.com/whats-new/
+Created new page 
+side bar remove
+single side bar remove 
+
+
+lakeland
+http://lakeland-fl.com/
+Remove this Email:- Info@odiconsulting.com, info@integrity-fl.com
+Update this Email:- lance@integrity-fl.com
+What's New
+http://lakeland-fl.com/whats-new/
+Created new page 
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465279
+https://wordpress-467375-1465279.cloudwaysapps.com/
+Remove this Email :- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+
+wordpress-467375-1465280
+https://wordpress-467375-1465280.cloudwaysapps.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://wordpress-467375-1465280.cloudwaysapps.com/whats-new/
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465281
+https://wordpress-467375-1465281.cloudwaysapps.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://wordpress-467375-1465281.cloudwaysapps.com/whats-new/
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465282
+https://wordpress-467375-1465282.cloudwaysapps.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://wordpress-467375-1465282.cloudwaysapps.com/whats-new/
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465283.cloudwaysapps
+https://wordpress-467375-1465283.cloudwaysapps.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://wordpress-467375-1465283.cloudwaysapps.com/whats-new/
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465284
+https://wordpress-467375-1465284.cloudwaysapps.com/
+Remove this Email:- sarfaraz@odiconsulting.com,keri@odiconsulting.com
+Update this Email:- lance@integrity-fl.com
+What's New
+https://wordpress-467375-1465283.cloudwaysapps.com/whats-new/
+side bar remove
+single side bar remove 
+
+wordpress-467375-1465325
+http://wordpress-467375-1465325.cloudwaysapps.com/
+
+
+
+
+
+<div id="sidebar" class="span4 hidden-phone hidden-tablet">
+        <?php get_sidebar(); ?>
+      </div>
+
+/index.php/%year%/%monthnum%/%day%/%postname%/
+
+
+.page-id .vc_custom_1599056138913 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}

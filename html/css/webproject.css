@@ -1,0 +1,39 @@
+body ,*{
+    width: 980px;
+    height: auto;
+    margin: 0 auto;
+    font-family:sans-serif;
+    box-sizing: border-box;
+}
+.heder{
+   height: 100px;
+   text-align: center;
+   background-color: rgb(223, 140, 39);
+   border: 15px solid gold;
+ }
+.heder h1{
+   font-size: 25px;
+}
+.bnner .left{
+    width: 70%;   
+    background-color: gray;
+    height: auto;
+    float: left;
+   border: 15px solid gold;
+    
+} 
+.bnner .right{
+    width: 30%;
+   background-color: teal;
+    height: auto;
+    color:rgb(12, 8, 8);
+    float: right;
+    border: 15px solid gold;s
+ 
+}
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: teal;
+    padding: 5%;
+}

@@ -1,0 +1,199 @@
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .img-logo {
+    width: 32%;
+    float: left;
+}
+.practice-areas-image .wpb_column.vc_column_container.vc_col-sm-2 {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+.vc_row.vc_row-no-padding .vc_column-inner {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+	}
+}
+
+@media (min-width: 768px) {
+    
+    .img-logo {
+    width: 32%;
+    float: left;
+}
+.practice-areas-image .wpb_column.vc_column_container.vc_col-sm-2 {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+.vc_row.vc_row-no-padding .vc_column-inner {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.btn-type {
+    padding: 13px 24px!important;
+    border: 1px solid #5b0c15;
+    border-radius: 3px;
+    font-size: 14px;
+}
+}
+@media (min-width: 360px) and (max-width: 767px) {
+	
+	 .img-logo {
+    width: 32%;
+    float: left;
+}
+.practice-areas-image .wpb_column.vc_column_container.vc_col-sm-2 {
+    width: 50%;
+    float: left;
+}
+	.practice-areas-image .thumb-box {
+    font-size: 15px;
+}
+.vc_row.vc_row-no-padding .vc_column-inner {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.btn-type {
+    padding: 13px 24px!important;
+    border: 1px solid #5b0c15;
+    border-radius: 3px;
+    font-size: 10px;
+}
+	
+	#content .wpb_text_column img.alignnone, img.alignnone {
+    margin: 0px 0px 0px 0px;
+}
+	.btn-click.wpb_column.vc_column_container.tm-col-textcolor-default.tm-col-bgcolor-default.vc_col-sm-2 {
+    width: 100%;
+    margin-bottom: 0px !important;
+}
+	}
+
+
+
+@media(max-width;768){
+a.btn-type {
+    text-align: center !important;
+}
+}
+
+
+
+
+
+/*
+Theme Name:  DigitalLAW
+Theme URI:   http://digitallaw.thememountdemo.com/
+Author:      Theme Mount
+Author URI:  http://www.thememount.com/
+Description: Digital LAW theme is specially created for Attorney, Lawyer and Law Agency WordPress Theme
+Version:     3.1
+Text Domain: digitallaw
+Tags:        two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, featured-images, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+License:     This WordPress theme is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the theme including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://themeforest.net/licenses/regular_extended
+License URI: -
+*/
+
+/*
+ *  All the CSS code is in inc/main.css file
+ */
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignleft {display: inline; float: left; margin-right: 15px;}
+.alignright {display: inline; float: right; margin-left: 15px;}
+.aligncenter {clear: both; display: block; margin-left: auto; margin-right: auto;}
+
+/* End of CSS file */
+
+.thememount-slider-wrapper
+{
+    display:none!important;
+}
+
+ul.mega-sub-menu {
+    background-color: #fff!important;
+}
+
+a.mega-menu-link {
+color:#000!important;
+}
+
+@media only screen and (max-width: 1200px){
+
+#content div > .entry-content > .vc_row.vc_row-fluid.practice-areas-image {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+content div > .entry-content .vc_row.vc_row-fluid.home-section {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.site-main .site-main-inner {
+    width: 100%;
+}
+.container, .section.grid_section {
+    width: 100%;
+}
+.home-form-sec .cont-form {
+    width: 100%;
+}
+.home-section .btn-click {
+    width: 33%;
+}
+
+
+
+}
+
+@media only screen and (max-width: 999px){
+    #content div > .entry-content > .vc_row.vc_row-fluid.practice-areas-image {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+h2 {
+    font-size: 30px !important;
+}
+.home-section .home-sec-tex {
+    width: 100%;
+    text-align: center;
+}
+.home-section .home-sec-tex h2 {
+    text-align: center !important;
+    margin-bottom: 40px !important;
+}
+.home-section .btn-click {
+    width: 50%;
+    text-align: center;
+}
+.home-section .btn-click p {
+    text-align: center !important;
+}
+.home-ctn-sidebar .home-practice-ctn {
+    width: 100%;
+}
+.home-ctn-sidebar .wpb_column.vc_col-sm-4 {
+    width: 100%;
+}
+.icon-service-box {
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+}
+.home-form-sec strong {
+    font-weight: 400;
+    font-size: 22px !important;
+}
+#footer-top .widget-area {
+    clear: none;
+}
+.bottom-services li:first-child {
+    width: 28.7%;
+}
+
+    
+    }

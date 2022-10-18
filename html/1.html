@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+     *{
+         padding:0px;
+         margin: 0;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         scroll-behavior: smooth;
+         transition:2s;
+         text-transform: capitalize;
+     }
+     .min{height: 80px;
+     }
+     nav{
+         float: right;height: 50px;
+     padding: 10px;
+     background: rgb(233, 175, 51);
+     width: 100%;
+     } 
+     ul{
+        list-style: none; 
+         
+       
+     }
+     ul li{
+       display: inline-block;
+       padding:0 10x;
+       float: right;
+      
+     }
+     .bnner{
+         background-image: url("./img/blog2.jpg");
+         background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 95vh;
+        
+     }
+   .text
+   {text-align: center;
+   vertical-align: middle;
+   padding-top:25% ;
+   color: rgb(246, 246, 246);
+   font-size: 25px;
+   text-shadow:2px 2px 2px rgb(1, 10, 1);
+   
+   
+   }
+nav{
+position:fixed;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+  font-size:25spx;
+  padding:10px 20px;
+  display: block;
+ }
+ a:hover{
+  text-decoration: none;
+  background:white;
+  font-size:25spx;
+  color: black;
+  border-radius: 10px 5px;
+  
+ }
+table{width: 100%;
+}
+table td{width:33%;}
+img{
+     width:80%;
+     margin-left:45px;
+     text-align: center;
+     box-shadow: 7px 7px 7px #666666;
+     border-radius: 10px;;
+   }
+#movtext{
+  text-align: center;
+   vertical-align: middle;
+   padding:3%;
+   color: rgb(7, 6, 6);
+   font-size: 25px;
+}
+#book{
+  margin: 40px;
+  padding: 50px;
+  height: 530px;
+  background:linear-gradient(45deg,rgb(206, 191, 191),rgb(192, 152, 79));
+ 
+}
+#book form{
+
+ height: 440px;
+ background: rgb(214, 163, 68);
+ width: 30%;
+ float:right;
+ margin-right:10%;
+margin-top: -390px;
+
+}
+#book input{
+  border: none;
+  border-radius: 10px;
+  focus:none;
+  outline:none;
+  text-align: center;
+  horizontal-aligh:20%;
+  
+}
+#book p{
+  text-align: center;
+  padding: 15px;
+}
+#book button{
+  text-align: center;
+  padding: 50px;
+}
+#movie #text{
+  text-align:center;
+  margin: 5px;
+}
+
+input{
+padding:15px 0 0 15px;
+margin-left:75px;
+}
+#contct input{
+padding:15px 0 0 15px;
+margin-left:75px;
+text-align: center;
+}
+placeholder{
+text-align: center;}
+submit{text-align: center;
+}
+input[type="submit"]{
+  margin:120px;
+  margin-top:22px;
+  
+ padding:12px;
+}
+
+input[type="submit"]:hover{
+  background:rgb(214, 163, 68);
+  transition: 0.5s;
+  border-style: ridge;
+}
+#cln{
+ height:360px;
+ 
+padding-top:0px;
+ width:30%;
+ margin-left:100px;
+ margin-top:35px;
+ 
+}
+
+
+
+
+<!---dd-->
+
+#contct{
+
+height: 440px;
+background: rgb(214, 163, 68);
+width: 30%;
+float:right;
+margin-right:6%;
+margin-top: -390px;
+
+}
+#contct img{
+  margin-left:150px ;
+}
+#contct input{
+ border: none;
+ border-radius: 10px;
+ focus:none;
+ outline:none;
+ text-align: center;
+ horizontal-aligh:20%;
+ 
+}
+#contct p{
+padding: 10px;
+margin-left:180px;
+padding: 10px;
+
+}
+#contct button{
+ text-align: center;
+ padding: 50px;
+}
+#contct #text{
+ text-align:center;
+ margin: 5px;
+}
+#contct form{
+  margin-left: 120px;
+  height: 400px;
+  width: 62%;
+  background: rgb(172, 167, 110);
+
+}
+#contct form input{
+  padding:10px ;
+  margin-left:110px; 
+}
+footer{
+  height:30px;
+  background:rgb(214, 163, 68) ;
+  width: 100%;
+  padding:35px;
+  margin-top:25px ;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+
+
+
+        
+    </style>
+</head>
+<body>
+  <div id="home">
+    <div class="min">
+      <nav>
+        <ul>
+           <li><a href="#home">Home</a></li>
+           <li><a href="#movie">New movies</a></li>
+           <li><a href="#book">book</a></li>
+           <li><a href="#contct">Contact</a></li>
+        </ul>
+         
+        </nav>
+      <div class="bnner">
+         <div class="text">
+           <h1>
+               this is my webpge
+           </h1><br>
+
+           <p>this is how pge looks</p>
+         </div>
+      </div>
+       <div id="movie">
+         <h2 id="movtext">Top rted movies</h2>
+         <p id="movtext" >Want Canadian horror movies of the 1970s that at least 100 IMDb users have given an average rating above a 6? You can find them here.</p>
+         <table >
+           <tr>
+            <td><img src="./img/blog1.jpg" width=300px height=300px></td>
+            <td><img src="./img/blog1.jpg"  width=300px height=300px></td>
+            <td> <img src="./img/blog1.jpg" width=300px height=300px ></td>
+           </tr>
+
+        <tr id="text">
+            <td>Lorem ipsum dolor sit </td>
+            <td>Lorem ipsum dolor sit </td>
+            <td>Lorem ipsum dolor sit </td>
+         </tr>
+          
+           
+         </table>
+       </div>
+       <div id="book">
+
+ <h2 id="movtext">booking form</h2>
+ <img id="cln" src="./img/cln.jpg" ><br>
+
+
+
+
+       <form>
+         
+        <p>name</p>
+        <input type="text" name="" placeholder="Enter your name">
+        <p>username:</p>
+        <input type="text" name="" placeholder="Enter your username">
+        <p>Email:</p>
+        <input type="Email" name="" placeholder="Enter your Email">
+        <p>Password:</p>
+        <input type="Password" name="" placeholder="Enter your Password"> 
+        <p>How Many Ticket You Want ?</p>
+        <input type="text" name="" placeholder="Enter How Many Ticket You Want "> <br>
+        
+        
+        <input type="submit" value="Book Ticket">
+      
+
+       </form>
+       </div>
+       <div id="contct">
+        <h2 id="movtext">Contact us</h2>
+         <table>
+           <tr>
+             <td><img src="./img/popular-blog3.jpg" alt="">  </td>
+             <td> 
+             <form>
+         
+              <p>name</p>
+              <input type="text" name="" placeholder="Enter your name">
+              
+              <p>Email</p>
+              <input type="Email" name="" placeholder="Enter your Email">
+              <p>message</p>
+              <input type="textarea"   rows="4" cols="30" name=""  placeholder="Enter your message here">
+              <br>
+              <input type="submit" value="submit" style="padding: 10px;margin-left:185px ;">
+     </form></td>
+           </tr>
+         </table>
+<footer>
+  copyright@ all rights are reserved
+</footer>
+
+    
+       </div>
+       </div>
+  </div> 
+</body>
+</html>

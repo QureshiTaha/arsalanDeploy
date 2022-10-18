@@ -1,0 +1,29 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.109);
+}
+.logo, .sbi-arrow {
+    height: auto;
+}
+.head-info{
+    height: 100px;
+    border: solid;
+    display: flex;
+justify-content: space-around;
+justify-items: center;
+}
+
+.logo img{
+    width: 158px;
+    height: 31px;
+}
+img.sbi-img{
+    width: 158px;
+    height: 31px;
+}
+
+
+/*  */
+

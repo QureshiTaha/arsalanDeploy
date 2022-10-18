@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>survey form</title>
+    <!-- style  -->
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+            font-family: sans-serif;
+        }
+       form {
+            padding:15px;
+            background-color: rgb(56, 14, 14);
+            margin: 0 auto;
+            display: block;
+        
+            
+        }
+        #main{
+            background-image: linear-gradient(#6c6eb973,#7375ac), url( 'https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg');
+            height: 100vh;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        form{
+            margin: 0 auto;
+            width: 80%;
+        }
+        div#form {
+            display: flex;
+}
+        
+    </style>
+</head>
+<body>
+    <main id="main">
+       <h1 id="title">freeCodeCamp Survey Form</h1>
+       <p id="description"><i>Thank you for taking the time to help us improve the platform</i></p>
+
+       <div id="form">
+        <form action="get" id="survey-form">
+            <label for="name" id="name-label">Name <br>
+                <input type="text" id="name" placeholder="Enter Your Name">
+            </label>
+            <br>
+            <label for="email"  id="email-label">Email <br>
+             <input type="email" id="email" placeholder="Enter Your Email">
+             <br>
+ 
+             <label for="number" id="number-label">Age(optional) <br>
+                 <input type="number" id="number" placeholder="Enter Your Age">
+                 <br>
+             
+           
+             <label for="dropdown">Which option best describes your current role?</label>
+             <br>
+             <select name="dropdown" id="dropdown">
+                 <option disabled selected value>Select current role</option>
+                 <option value="Student">Student</option>
+                 <option value="job">Full time employee</option>
+                 
+             </select> 
+             <br>
+ 
+         <label for="radio-button">Would you recommend freeCodeCamp to a friend?</label> 
+         <br>
+         <input type="radio" name="radio" checked>
+         <label > Definately</label><br>
+         
+         <input type="radio" name="radio">     
+         <label > Maybe</label><br>
+         
+         <input type="radio" name="radio">  
+         <label >Not Sure</label><br>
+         
+         <label for="favourite">What is your favorite feature of freeCodeCamp?</label>
+         <br>
+         <select name="favourite" id="favourite">
+             <option disabled selected value>Select current role</option>
+             <option value="Challenges">Challenges</option>
+             <option value="Projects">Projects</option>
+             
+         </select>
+         <br>   
+         <label for="checkbox">What would you like to see improved? (Check all that apply)</label>
+         <br>
+ 
+         <input type="checkbox" name="checkbox"> <label>Front-end Projects</label>
+ 
+         <br>
+         <input type="checkbox" name="checkbox"> <label>Back-end Projects</label>
+         <br>
+         <input type="checkbox" name="checkbox"> <label>Data Visualization</label> <br>
+       
+         
+         <label>Any comments or suggestions?</label><br>
+         <textarea placeholder="Enter your comment here..."></textarea><br>
+         <input type="submit" name="submit" id="submit">
+ 
+         
+        </form>
+       </div>
+
+
+    </main>
+
+    
+</body>
+</html>

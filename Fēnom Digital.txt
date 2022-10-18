@@ -1,0 +1,36 @@
+.featured-client-sec {
+    padding-top: 25px;
+    padding-bottom: 30px;
+    background: linear-gradient(to bottom, #b1b2b3 0%, #fff 20%);
+}
+
+
+/* .wpb_single_image img {
+    margin-bottom: 3vw;
+} */
+/* div#footer-lets-talk {
+    margin-top: -1px;
+} */
+
+ .blue-wave .wpb_single_image .wpb_wrapper.vc_figure .vc_single_image-wrapper {
+   margin-bottom: -41px;
+}
+
+
+.wpb_single_image img {
+    /* height: auto; */
+    max-width: 100%;
+    margin-bottom: 2vw;
+}
+
+
+inner-header-section section img-btm
+
+@media only screen and (max-width: 1382px)
+.inner-header-section .wpb_column.vc_col-sm-6:nth-child(2) .wpb_single_image img.vc_single_image-img {
+        margin-bottom: 2vw;    
+}
+@media only screen and (max-width: 1382px)
+.inner-header-section .wpb_column.vc_col-sm-6:nth-child(2) .wpb_single_image img.vc_single_image-img {
+    margin-bottom: 2vw;
+}

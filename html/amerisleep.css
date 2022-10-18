@@ -1,0 +1,234 @@
+*{
+    font-family: poppins,sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: 0.5s ease-in-out;
+    text-decoration: none;
+}
+.header-top{
+    padding:11px 0;
+}
+.header{
+    background-color: #00338d;
+    text-align:center;
+}
+
+.header-top .header-span1{
+      font-size: 14px;
+    font-weight: 400;
+    color: #97cbff;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  
+}
+.header-top .header-span2{
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  
+}
+i.fa.fa-angle-down {
+    position: relative;
+    top: 3px;
+    left:3px;
+}
+.menu a{
+    color: #858585;
+    letter-spacing: 0.3px;
+    margin: 0 12px;
+    
+}
+.menu a:hover{
+    color: #208bfd;
+}
+i.fa.fa-angle-down:hover{
+   transform: rotate(180deg);
+   color: #208bfd;
+}
+a#sale {
+    color: #e7211e;
+}
+a#matress-fit-quiz {
+    color: #278bfd;
+    font-weight: bold;
+    padding: 5px 0.5rem;
+    border: 1px solid #ccc;
+}
+
+i#cart {
+    position: relative;
+}
+#cart::after {
+    content: "0";
+    font-size: 11px;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    background: #ff6f6f;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    top: -7px;
+    left: 10px;
+    z-index: -1;
+}
+i.fa {
+    font-size: 18px;
+    color: #858585;
+}
+i.fa.fa-user-circle {
+    padding: 0 5px;
+}
+
+a#tel {
+    color: #444;
+    font-size: 14px;
+    font-weight: 600;
+}
+.contact-section a {
+    color: #444;
+    letter-spacing: 0.3px;
+    font-weight: bold;
+}
+.logo img {
+    
+        width: 164px;
+        margin-right: 35px;
+
+}
+.logo {
+    display: flex;
+}
+.contact-section {
+    padding: 0px 30px;
+}
+
+nav.nav {
+    display: flex;
+    padding: 20px 30px 19px;
+    border-bottom: 1px solid #0000000d;
+}
+
+
+/* hero-container */
+.hero-container{
+    height: 100vh;   
+}
+.hero-container .left #subtitle{
+    color: #333;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.hero-container .left h1{
+    font-size: 60px;
+    color: #00338d;
+}
+span#blockquotes {
+    font-size: 20px;
+    color: #153388;
+    font-weight: 500;
+    display: inline-block;
+    margin: 30px 0 0 0;
+    position: relative;
+    padding-left: 10px;
+}
+button#btn:hover{
+    background-color: #ff7e7e;
+}
+button#btn {
+    font-size: 16px;
+    padding: 18px 45px 19px;
+    background: #ff6f6f;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    letter-spacing: 0.19px;
+    font-weight: 500;
+    margin: 30px 0 20px 0;
+}
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    height: 772px;
+    background: linear-gradient(#f5f6fb, #dee2f4);
+}
+.left {
+    /* flex-basis: 525px;
+    text-align: left;
+    position:relative; */
+/* ya fir ye hai  */
+flex-basis: 525px;
+    text-align: left;
+    padding: 40px 50px 100px;
+}
+.hero-container .left #subtitle {
+    color: #333;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 15px;
+    line-height: 32px;
+}
+span#blockquotes::before {
+   content: "";
+   background-image: url('https://cdn11.bigcommerce.com/s-36im9ihtig/content/assets/home/hero-carousel/2022/quote.svg');
+    height: 33px;
+    width: 28px;
+    display: block;
+    position: absolute;
+    top: -12px;
+    left: -3px;
+    background-repeat-y: no-repeat;
+    background-repeat-x: repeat;
+}
+.hero-container .left img {
+    padding-left: 10px;
+}
+.right {
+    width: 60%;
+    height: 100%;
+}
+.right img {
+    width: 769px;
+    height: 100%;
+}
+/* .hero-poster-bottom */
+.hero-poster-bottom {
+    background: #153388;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+    font-weight: 500;
+}
+.hero-poster-bottom a { color: #fff;
+     text-decoration: underline;
+     padding-left: 5px; 
+}
+
+/* social-proof */
+section#social-proof {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: #444;
+    padding: 50px 20px 80px;
+    align-items: center;
+    margin: 0 9.5px;
+}
+.image-cont {
+    min-height: 40px;
+}
+
+
+
+

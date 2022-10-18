@@ -1,0 +1,23 @@
+.page-id-3916 li.firstItem {
+    font-size: 18px;
+    color: #212529;
+    font-weight: 400;
+    line-height: 1.5 !important;
+}
+
+
+<ul>
+ 	<li class="firstItem">Wii &amp; Xbox with Games</li>
+</ul>
+
+
+
+
+<---- Marqetrix --->
+https://www.marqetrix.com/
+
+[rev_slider alias="android-app-development"][/rev_slider]
+
+
+
+[vc_row full_width="stretch_row" css=".vc_custom_1582179851416{background-image: url(https://www.marqetrix.com/wp-content/uploads/2017/08/section-03-01-bg.jpg?id=50) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_id="head-main-row"][vc_column][vc_row_inner equal_height="yes" content_placement="middle" css=".vc_custom_1584441461601{padding-top: 130px !important;}" el_id="header-sec-2" el_class="inner-pri-header bakery-header"][vc_column_inner][vc_custom_heading text="About Us" font_container="tag:h1|text_align:center" use_theme_fonts="yes" el_class="head-main-title"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][vc_column_text][breadcrumb][/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

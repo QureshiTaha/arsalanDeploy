@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <!-- seo optimization -->
+<title>Cyphon Digital - Portland Web Design and Marketing Agency</title>
+
+<meta name="description" content="Cyphon Digital is a full-service website design and development agency in Portland. We help B2C and B2B brands grow with modern and advanced website projects.">
+
+<link rel="icon" type="image/svg" href="https://cdn-dggdk.nitrocdn.com/LOEvNwliFTTbhTFJBNXqymWnhwmEjpIc/assets/static/optimized/rev-83a7d50/wp-content/uploads/2021/09/cyphon-favicon.png">
+    <link rel="stylesheet" type="text/css" href="bootstrap-5.2.0/css/bootstrap.css">
+    
+    <link rel="stylesheet" href="./stylesheet/project2.css">
+<!-- seo optimization -->
+<title>Cyphon Digital - Portland Web Design and Marketing Agency</title>
+
+<meta name="description" content="Cyphon Digital is a full-service website design and development agency in Portland. We help B2C and B2B brands grow with modern and advanced website projects.">
+
+</head>
+<body>
+
+ <script type="text/javascript" src="bootstrap-5.2.0/js/bootstrap.js"></script>
+</body>
+</html>
